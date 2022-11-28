@@ -1,6 +1,11 @@
-### Olá!
-Eu sou o Yan Velasco, seja bem vindo(a)" 👋
+### Olá! 👋
+Desenvolvedor de softwares, apaixonado pelo mundo da programação e desenvolvimento, me reconheço como entusiasta em novas tecnologias, com aprendizado adquirido dia após dia.
 
+Possuo habilidades  em desenvolvimento com JavaScript, HTML, CSS, SQL, PHP, dentre outras tecnologias que uso para criar aplicações de softwares relacionadas com database.
+
+Me considero ágil e consistente em aprender uma nova tecnologia e alta adaptabilidade às mudanças, pronto para superar qualquer desafio!
+
+Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado! :)
 <div align="center">
   <a href="https://github.com/YanVelasco">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Yanvelasco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
